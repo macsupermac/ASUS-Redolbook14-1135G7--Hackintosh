@@ -15,13 +15,20 @@
  ________________________________________________________________________________
  Work:
  ALC256(Need Fake ID)
+ 
  USB
+ 
  WiFi and BlueTooth(Sometines it may be not work)
+ 
  Keyborad and Mouse
+ 
  Apple ID
+ 
  CPU Power
  ________________________________________________________________________________
  Not Work:
  Intel Iris Xe Graphics
+ 
  I2C Collecter
+ 
  Bright Control
