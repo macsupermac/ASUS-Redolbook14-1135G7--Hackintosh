@@ -3,7 +3,7 @@
  
  Graphics：Intel Iris Xe Graphics（Doesn't work）
  
- Motherborad:R421EAY(BIOS:Need 302,or you can't install)
+ Motherborad:R421EAY(BIOS:309)
  
  SSD:Intel 660p 512G(Disabled:Intel RAID)
  
@@ -11,7 +11,9 @@
  
  Screen:1920x1080 60Hz
  
- WiFi:Intel AC9462(Need Heliport 1.4.1)
+ WiFi:Intel AC9462
+
+ Touchpad:ASUS ELAN1200(Polling Work)
  ________________________________________________________________________________
  Work:
  ALC256(Need Fake ID)
@@ -28,7 +30,3 @@
  ________________________________________________________________________________
  Not Work:
  Intel Iris Xe Graphics
- 
- I2C Collecter
- 
- Bright Control
