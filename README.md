@@ -30,3 +30,8 @@
  ________________________________________________________________________________
  Not Work:
  Intel Iris Xe Graphics
+
+![截屏2024-07-31 21 01 57](https://github.com/user-attachments/assets/b27809c8-6537-4f89-9d9e-67191e02ff00)
+
+
+![截屏2024-07-31 20 17 36](https://github.com/user-attachments/assets/6a4c42a6-8ff7-43d8-8f33-da38adbd0784)
