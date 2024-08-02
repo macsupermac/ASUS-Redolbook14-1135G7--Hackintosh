@@ -16,17 +16,17 @@
  Touchpad:ASUS ELAN1200(Polling Work)
  ________________________________________________________________________________
  Work:
- ALC256(Need Fake ID)
+ ALC256
  
  USB
  
- WiFi and BlueTooth(Sometines it may be not work)
+ WiFi and BlueTooth
  
- Keyborad and Mouse
+ Keyborad and TouchPad
  
  Apple ID
  
- CPU Power
+ CPU Power Management
  ________________________________________________________________________________
  Not Work:
  Intel Iris Xe Graphics
